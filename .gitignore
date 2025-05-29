@@ -1,6 +1,17 @@
-# Hugo
+# Hugo build output
 public/
 resources/_gen/
-.DS_Store
 .hugo_build.lock
 .hugo_cache/
+
+# Local deployment scripts and Docker files
+deploy.sh
+docker-compose.yml
+
+# Other common OS/IDE generated files
+.DS_Store
+.vscode/
+.idea/
+*.log
+*.zip
+*.tar.gz
