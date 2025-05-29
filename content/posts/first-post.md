@@ -11,7 +11,11 @@ date: 2025-05-05
 
 ![عکس مشتریان](/images/sample-post1.webp)
 
-[یک پست نمونه](/posts/secound-post/)
+[یک پست دوم](/posts/secound-post/)
+
+[یک پست دیپلوی](/posts/test/)
+
+[یک پست آینده](/posts/test2/)
 
 - تیتر اول
 - تیتر دوم
