@@ -1,5 +1,5 @@
-baseURL = "https://static.local/"
 languageCode = "fa-ir"
 title = "سایت تستی هوگو AMP"
+theme = "nokhostin"
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
