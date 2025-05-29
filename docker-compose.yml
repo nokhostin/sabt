@@ -1,7 +1,0 @@
-services:
-  hugo-builder:
-    image: klakegg/hugo:ext-alpine
-    container_name: hugo-builder
-    working_dir: /src
-    volumes:
-      - ./:/src
