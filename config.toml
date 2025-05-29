@@ -1,6 +1,5 @@
 baseURL = "https://static.local/"
 languageCode = "fa-ir"
 title = "سایت تستی هوگو AMP"
-# theme = ""  # این خط را کامنت کنید یا حذف کنید
 disableKinds = ["taxonomy", "term", "RSS", "sitemap"]
 disableHugoGeneratorInject = true
