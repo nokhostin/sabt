@@ -20,3 +20,4 @@ date: 2026-04-05
 ```python
 def hello():
     print("سلام Hugo!")
+```

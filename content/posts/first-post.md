@@ -26,3 +26,4 @@ date: 2025-05-05
 ```python
 def hello():
     print("سلام Hugo!")
+```
